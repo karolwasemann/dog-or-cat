@@ -22,4 +22,3 @@ Add functionality that:
 
 - Ensure that the same cat is not displayed twice during one session.
 
-Translated with www.DeepL.com/Translator (free version)
